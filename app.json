@@ -1,6 +1,6 @@
 {
   "expo": {
-    "scheme": "myapp",
+    "scheme": "growlo",
 
     "web": {
       "bundler": "metro"
